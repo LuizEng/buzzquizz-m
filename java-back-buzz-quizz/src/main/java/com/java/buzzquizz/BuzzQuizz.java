@@ -8,4 +8,5 @@ public class BuzzQuizz {
     public static void main(String[] args) {
     	SpringApplication.run(BuzzQuizz.class, args);
     }
+
 }
